@@ -6,7 +6,7 @@
 name: Paulo Alberto Simoes
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: Digital Development Specialist & Cloud Platform Architect from Oracle
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://s.gravatar.com/avatar/e1cdac1ff443b922baeb45842159a8a6?s=80
@@ -21,9 +21,9 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: 
+  github: pasimoes
   instagram:
-  linkedin: https://linkedin.com/in/paulosimoes
+  linkedin: paulosimoes
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: pasimoes
